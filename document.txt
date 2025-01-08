@@ -1,0 +1,29 @@
+Ravi Kumar Srirangam
+An experienced technology and product leader, and an engineer. Job functions span developing scalable platforms mainly cloud based, middleware and distributed applications, migrating apps to cloud, developing cognitive solutions using Watsonx. Advanced levels of technical knowledge combined with sound business vision to seamlessly connect the business and technical worlds.
+
+Specialties: Architecture and Design, High-volume backend systems, GenAI, WatsonX.ai, Machine Learning (ML), and Engineering Delivery Practices
+
+Skills & Technologies: GenAI, Watsonx.ai, Hybrid Cloud, Data Science and Machine Learning
+Interests: GenAI, Watsonx.ai, Hybrid Cloud
+
+Education:
+Amrita School of Business
+PGDBM (MBA), Systems and FinancePGDBM (MBA), Systems and Finance
+2000 - 20022000 - 2002
+Grade: First Class with Distinction
+
+KL University
+Bachelor of Technology (BTech), Mechanical Engineering
+1996 - 20001996 - 2000
+Grade: First Class with Distinction
+
+Experience:
+IBM
+Data & AI Solution Architect
+Full time - 9 years and 9 months
+WhiteSky Labs
+Principal Consultant
+Full time - 1 year 6 months
+Dell 
+Technical Architect II
+Full time - 7 years 8 months
